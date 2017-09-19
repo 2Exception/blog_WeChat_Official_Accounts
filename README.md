@@ -10,3 +10,6 @@
 ### 201709
 
 - [x] [webpack配置react项目实现热更新](./2017-09/webpack配置react实现热更新.md)
+- [x] [React技术栈实现XXX点评-Demo](https://github.com/Nealyang/React-Fullstack-Dianping-Demo)
+- [x] [React技术栈项目结构探究](https://github.com/Nealyang/React-Fullstack-Dianping-Demo/blob/master/docs/react%E6%8A%80%E6%9C%AF%E6%A0%88%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E6%8E%A2%E7%A9%B6.md)
+- [x] [彻底让你理解redux](https://github.com/Nealyang/study-redux)
