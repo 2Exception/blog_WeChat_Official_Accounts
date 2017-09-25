@@ -14,3 +14,4 @@
 - [x] [React技术栈项目结构探究](https://github.com/Nealyang/React-Fullstack-Dianping-Demo/blob/master/docs/react%E6%8A%80%E6%9C%AF%E6%A0%88%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E6%8E%A2%E7%A9%B6.md)
 - [x] [彻底让你理解redux](https://github.com/Nealyang/study-redux)
 - [x] [一篇文章入门AppleScript](./2017-09/一篇文章入门AppleScript脚本.md)
+- [x] [夯实JS系列--变量、作用域和内存问题](./2017-09/夯实JS系列--变量、作用域和内存问题.md)
