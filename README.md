@@ -17,3 +17,7 @@
 - [x] [夯实JS系列--变量、作用域和内存问题](./2017-09/夯实JS系列--变量、作用域和内存问题.md)
 ### 201710
 - [x] [夯实JS系列--浅谈JavaScript中面向对象](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/prototype-based.md)
+- [x] [浅谈JavaScript面向对象](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/prototype-based.md)
+- [x] [忍者级别的操作JavaScript函数](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/%E5%BF%8D%E8%80%85%E7%BA%A7%E5%88%AB%E7%9A%84%E6%93%8D%E4%BD%9C%E5%87%BD%E6%95%B0.md)
+
+### 201711
