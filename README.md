@@ -21,3 +21,5 @@
 - [x] [忍者级别的操作JavaScript函数](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/%E5%BF%8D%E8%80%85%E7%BA%A7%E5%88%AB%E7%9A%84%E6%93%8D%E4%BD%9C%E5%87%BD%E6%95%B0.md)
 
 ### 201711
+
+- [x] [谈谈闭包](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/doc/basic_js/%E8%B0%88%E8%B0%88%E9%97%AD%E5%8C%85.md)
